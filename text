@@ -1,1 +1,35 @@
-Git learing from basic to advance 
+What is React ? 
+1. js library to build Dynamic and interactive user interface 
+2. develop facebook in 2011
+3. currently most widely used js libary for fornt-end development 
+4. used to create single page application  . (spa)
+
+
+working of DOM
+1. Browser takes HTML and create DOM
+2. js helps us modify DOM based on user actions or events
+3. in big application, Working with dom becomes complicated 
+
+
+Problem with javascript 
+1. React has a simpler mental model
+2. js is cumbersome
+3. Js is error-prone 
+4. js is hard to maintaine 
+
+
+working of react 
+1. No need to worry about querying and updating dom 
+2. react creates a web page with small and reusable 
+3. React will take care of creating and updating DOM 
+4. it saves a lot of time 
+
+
+js vs react 
+
+1. JS is imperative: You define steps to reach you desire state 
+2. React is Delarative: you define the target ui state and then react figures how to reach that state
+
+
+Introduction to Components 
+1. react application is a tree of components with app component as the root bringing everything together 
