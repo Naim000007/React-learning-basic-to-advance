@@ -2,6 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import RandomNumber from './page/RandomNumber';
+import RandomNumberGenarator from './page/RandomNumberGenarator';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
     <>
     <p>MessageNo: {number} i am your master {fullName("naim")}</p>
     <RandomNumber/>
+    <RandomNumberGenarator/>
     </>
   )
 }
